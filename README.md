@@ -17,7 +17,7 @@ This snippet demonstrates how to create a custom shortcode in WordPress. Shortco
 
 ## Author
 
-Created by [Your Name], a WordPress developer specializing in custom themes and plugins.
+Created by Taha Shabirr, a WordPress developer specializing in custom themes and plugins.
 
 ## License
 
